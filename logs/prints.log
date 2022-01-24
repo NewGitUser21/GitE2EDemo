@@ -1,7 +1,2 @@
-12:49:33.587 [TestNG-tests-1] INFO  E2EDemoTesting.base - Navigated to Home Page
-12:49:35.455 [TestNG-tests-3] INFO  E2EDemoTesting.base - Navigated to Home Page
-12:49:36.984 [TestNG-tests-2] INFO  E2EDemoTesting.base - Navigated to Home Page
-12:49:37.926 [TestNG-tests-1] INFO  E2EDemoTesting.base - Navigate Bar is displayed
-12:49:40.244 [TestNG-tests-1] INFO  E2EDemoTesting.base - Driver closed
-12:50:06.915 [TestNG-tests-3] INFO  E2EDemoTesting.base - User Login with Invalid credentials
-12:50:07.058 [TestNG-tests-3] INFO  E2EDemoTesting.base - Driver closed
+19:57:20.691 [TestNG-tests-3] INFO  E2EDemoTesting.base - User Login with Invalid credentials
+19:57:20.884 [TestNG-tests-3] INFO  E2EDemoTesting.base - Driver closed

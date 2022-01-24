@@ -75,7 +75,7 @@ public class validateTitle extends base {
 		
 		//System.out.println(l.getTitle().getText());
 		
-		Assert.assertEquals(l.getTitle().getText(), "FEATURED COURSES123");
+		Assert.assertEquals(l.getTitle().getText(), "FEATURED COURSES");
 		
 		//PASSED: basePageNavigation
 		
